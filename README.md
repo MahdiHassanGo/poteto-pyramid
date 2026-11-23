@@ -1,5 +1,5 @@
 # Poteto Pyramid
-
+<img src="./assets/logo.svg">
 An engineering skill for AI coding agents. It teaches them to solve problems at the right level of the trust hierarchy — architecture first, then automated checks, then verification, then prose.
 
 ## The Pyramid
