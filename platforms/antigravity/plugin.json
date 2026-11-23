@@ -1,0 +1,12 @@
+{
+  "name": "poteto-pyramid",
+  "displayName": "Poteto Pyramid (All Code Is Slop)",
+  "description": "Enforce high-velocity, high-trust software engineering via the Poteto Pyramid: clean architecture, deterministic checks, and verification.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "/poteto-pyramid Audit this codebase for slop and structural technical debt",
+    "/poteto-pyramid Refactor this module according to the Poteto Pyramid",
+    "/poteto-pyramid Implement deterministic checks and verify runtime behavior"
+  ]
+}
